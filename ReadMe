@@ -1,0 +1,5 @@
+This is sample project of call web service using retrofit.
+In this sample, there is simple login screen and validation for login fields.
+This sample represent coding standards and common android project structure.
+In this sample, there is single file for all common functions which can be used from any other files. So, no need to write same code on all files.
+

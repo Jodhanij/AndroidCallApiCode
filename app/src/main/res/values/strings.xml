@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Simple Web service</string>
+
+    <string name="title_login">LOG IN &amp; RIDE</string>
+    <string name="title_email">Email Address</string>
+    <string name="title_password">Password</string>
+    <string name="label_login">LOG IN</string>
+    <string name="label_load_more">LODE MORE</string>
+    <string name="label_signup">SIGN UP</string>
+    <string name="label_forgot_pass">Forgot Password?</string>
+    <string name="label_forgot_pass_request">Enter your email address to request a password reset.</string>
+    <string name="label_forgot_pass_hint">Enter your email address.</string>
+    <string name="title_request">Request</string>
+    <string name="label_imrider">I\'M A RIDER</string>
+    <string name="label_sign_up">SIGN UP</string>
+    <string name="title_cancel">Cancel</string>
+    <!-- Validation message-->
+    <string name="valid_please_wait">Please wait.</string>
+    <string name="valid_enter_email">Please enter email address</string>
+    <string name="valid_enter_username">Please enter valid email address</string>
+    <string name="valid_enter_password">Please enter Password</string>
+    <string name="valid_network_connection">Please check your internet connection.</string>
+    <string name="valid_try_again">Please try again later.</string>
+</resources>
